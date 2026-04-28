@@ -1,0 +1,3 @@
+User-agent: *
+Allow: /
+Sitemap: https://artisanjdebard.com/sitemap.xml
